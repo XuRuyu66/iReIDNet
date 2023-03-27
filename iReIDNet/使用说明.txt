@@ -1,0 +1,2 @@
+说明：我们所设计的iReIDNet网络是在AAAI2020的论文"Relation Network for Person Re-identification"设计的网络RRID下进行的修改与改进。"Relation Network for Person Re-identification"提供了输入数据及导入其他相关包的代码，具体的下载地址为：https://gitcode.net/mirrors/cvlab-yonsei/RRID
+对本文设计的网络感兴趣的相关学者可以下载RRID网络，将本iReIDNet网络加以替换即可运行。
